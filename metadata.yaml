@@ -1,0 +1,32 @@
+_repo: The-Victory-At-Sea_38587
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38587-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Hendrick, Burton Jesse
+    birthdate: 1870
+    deathdate: 1949
+    gutenberg_agent_id: '1097'
+    url: http://www.gutenberg.org/2009/agents/1097
+  - agent_name: Sims, William Sowden
+    birthdate: 1858
+    deathdate: 1936
+    gutenberg_agent_id: '39550'
+    url: http://www.gutenberg.org/2009/agents/39550
+description: ''
+gutenberg_issued: '2012-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Submarine'
+- !lcsh 'World War, 1914-1918 -- United States'
+- !lcc 'D501'
+title: The Victory At Sea
+url: http://www.gutenberg.org/ebooks/38587
